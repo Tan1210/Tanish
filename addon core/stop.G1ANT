@@ -1,0 +1,6 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+for ♥i from 1 to 5
+  stop if ⊂♥i==3⊃ silentmode true
+  dialog ♥i
+end
