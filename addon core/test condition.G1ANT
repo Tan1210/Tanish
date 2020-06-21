@@ -1,0 +1,6 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+♥firsttext= Tanish
+♥secondtext= Tanish
+test condition ⊂♥firsttext==♥secondtext⊃ errormessage ‴Texts don't match‴
+dialog Matched!
