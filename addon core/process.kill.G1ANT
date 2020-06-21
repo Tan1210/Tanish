@@ -1,0 +1,9 @@
+addon iexplorer version 4.104.0.0
+addon selenium version 4.104.0.0
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+program notepad
+ie.open
+selenium.open chrome url google.com
+process.kill notepad
+process.kill chrome
