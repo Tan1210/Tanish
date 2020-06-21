@@ -1,0 +1,10 @@
+addon ui version 4.104.0.0
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+program mstsc
+♥rdc = /ui[@name='Remote Desktop Connection']
+ui.settext ‴/ui[@name='Remote Desktop Connection']/ui[@id='5012']/ui[@id='5012']‴ text test.domain.com
+waitfor.ui ‴♥rdc/ui[@id='5017']/ui[@name='Show Options ']‴
+ui.click ‴♥rdc/ui[@id='5017']/ui[@name='Show Options ']‴
+delay 1
+ui.settext ‴♥rdc/ui[@id='13064']‴ text admin
