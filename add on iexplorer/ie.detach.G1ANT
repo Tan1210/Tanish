@@ -1,0 +1,19 @@
+addon iexplorer version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+ie.open google.com result ♥id1
+delay 2
+window ‴✱internet explorer✱‴ style maximize
+delay 2
+ie.open bing.com result ♥id2
+delay 2
+window ‴✱internet explorer✱‴
+delay 2
+ie.switch ♥id1
+delay 2
+ie.gettitle ♥title
+delay 2
+dialog ♥title
+delay 2
+ie.detach
+ie.switch ♥id1
