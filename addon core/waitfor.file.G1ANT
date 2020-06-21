@@ -1,0 +1,4 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+waitfor.file path ♥environment⟦USERPROFILE⟧\excel.xlsx timeout 10000 errormessage ‴No file!‴
+dialog ‴File found!‴
