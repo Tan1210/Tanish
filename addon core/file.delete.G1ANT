@@ -1,0 +1,9 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+file.exists C:\New_folder\test.txt timeout 1000 errorjump notFound
+dialog ‴File exists and will be deleted‴
+file.delete C:\New_folder\test.txt
+
+
+label notFound
+dialog ‴File doesn't exist‴
