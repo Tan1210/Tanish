@@ -1,0 +1,8 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+♥list = one❚two❚three
+foreach ♥element in ♥list
+    dialog ♥element
+    continue
+    dialog ‴You won't see me!‴
+end
