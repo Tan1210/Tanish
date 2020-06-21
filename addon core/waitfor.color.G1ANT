@@ -1,0 +1,6 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+color position 300⫽300 relative true result ♥color
+dialog ♥color
+waitfor.color position 300⫽300 color FFFFFF relative true errormessage ‴Sorry‴
+dialog ‴Color found!‴
