@@ -1,0 +1,6 @@
+addon ui version 4.104.0.0
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+♥dllPath = ♥environment⟦windir⟧\system32\kernel32.dll
+checkversion path ♥dllPath
+dialog ♥result
