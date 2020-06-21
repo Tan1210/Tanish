@@ -1,0 +1,6 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+♥list1 = foo1❚foo2❚foo3❚123❚45
+♥list2 = a❚b❚c
+list.add list ♥list1 toadd ♥list2
+dialog ♥result
