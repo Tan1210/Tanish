@@ -1,0 +1,12 @@
+addon ui version 4.104.0.0
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+♥number = 1
+call increaseNumber
+dialog ♥number
+call increaseNumber
+dialog ♥number
+
+procedure increaseNumber
+  ♥number = ♥number + 1
+end
