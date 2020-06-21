@@ -1,0 +1,9 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+color.expected position 1777⫽820 color FFFFF relative true errorcall notFound
+dialog ‴Color found‴
+
+procedure notFound
+    dialog ‴Color not found‴
+    stop 
+end
