@@ -1,0 +1,7 @@
+addon iexplorer version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+ie.open http://www.foobar2000.org/getfile/c085726ed8e1a7c11ec10462e2f2b7d9/foobar2000_v1.5.4.exe
+window ‴✱internet explorer✱‴
+delay 6
+ie.saveas ♥environment⟦USERPROFILE⟧\
