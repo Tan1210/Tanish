@@ -1,0 +1,29 @@
+addon ui version 4.104.0.0
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+program mstsc
+♥rdc = /ui[@name='Remote Desktop Connection']
+ui.settext ‴/ui[@name='Remote Desktop Connection']/ui[@id='5012']/ui[@id='5012']‴ text test.domain.com
+waitfor.ui ‴♥rdc/ui[@id='5017']/ui[@name='Show Options ']‴
+ui.click ‴♥rdc/ui[@id='5017']/ui[@name='Show Options ']‴
+delay 1
+ui.settext ‴♥rdc/ui[@id='13064']‴ text admin
+delay 1
+ui.click ‴♥rdc/ui[@id='5015']/ui[@name='Display']‴
+delay 1
+for ♥i from 1 to 4
+  ui.click ‴♥rdc/ui[@id='13065']/ui[@name='Page left']‴
+end
+delay 1
+ui.click ‴♥rdc/ui[@id='5015']/ui[@name='Local Resources']‴
+delay 1
+ui.click ‴♥rdc/ui[@id='13222']‴
+delay 1
+ui.click ‴♥rdc/ui[@id='13082']‴
+delay 1
+ui.click ‴♥rdc♥rdc/ui[@id='13221']/ui[@name='Drives']‴
+keyboard ⋘SPACE⋙
+ui.click ‴♥rdc♥rdc/ui[@id='13220']‴
+ui.click ‴♥rdc/ui[@id='5015']/ui[@name='General']‴
+dialog ‴Now, click OK to close this dialog and click Save As button‴
+ui.click ‴/ui[@name='Remote Desktop Connection']/ui[@id='13053']‴
