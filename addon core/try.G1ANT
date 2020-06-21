@@ -1,0 +1,8 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+try errorcall oops
+   window blah timeout 1000
+end
+procedure oops
+   dialog ‴oops, window not found!‴
+end
