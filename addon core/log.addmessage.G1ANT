@@ -1,0 +1,5 @@
+addon language version 4.98.18332.1321
+addon core version 4.98.18332.1321
+program notepad
+log.addmessage ‴Notepad process started‴
+keyboard ‴This is just for a test‴
