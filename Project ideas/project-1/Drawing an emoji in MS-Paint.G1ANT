@@ -1,0 +1,113 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+keyboard ⋘WIN+D⋙
+keyboard ⋘WIN⋙
+keyboard Paint
+mouse.click 172⫽394 relative false
+delay milliseconds 500
+mouse.click 491⫽81 relative false
+delay milliseconds 500
+mouse.click 203⫽252 relative false type down
+mouse.move 596⫽612 relative false
+mouse.click 762⫽749 relative false type up
+delay milliseconds 500
+mouse.click 100⫽409 relative false
+delay milliseconds 500
+mouse.click 333⫽358 relative false type down
+mouse.move 412⫽457 relative false
+mouse.click 476⫽485 relative false type up
+delay milliseconds 500
+mouse.click 100⫽409 relative false
+delay milliseconds 500
+mouse.click 486⫽349 relative false type down
+mouse.move 583⫽423 relative false
+mouse.click 636⫽484 relative false type up
+delay milliseconds 500
+mouse.click 100⫽409 relative false
+delay milliseconds 500
+mouse.click 378⫽397 relative false type down
+mouse.move 415⫽432 relative false
+mouse.click 441⫽461 relative false type up
+delay milliseconds 500
+mouse.click 100⫽409 relative false
+delay milliseconds 500
+mouse.click 513⫽395 relative false type down
+mouse.move 540⫽424 relative false
+mouse.click 582⫽461 relative false type up
+delay milliseconds 500
+mouse.click 100⫽409 relative false
+delay milliseconds 500
+mouse.click 464⫽80 relative false
+delay milliseconds 500
+mouse.click 318⫽585 relative false type down
+mouse.move 494⫽586 relative false
+mouse.click 669⫽585 relative false type up
+delay milliseconds 500
+mouse.click 373⫽585 relative false type down
+mouse.move 377⫽620 relative false
+mouse.click 378⫽666 relative false type up
+delay milliseconds 500
+mouse.click 599⫽588 relative false type down
+mouse.move 611⫽620 relative false
+mouse.click 608⫽666 relative false type up
+delay milliseconds 500
+mouse.click 310⫽84 relative false
+delay milliseconds 500
+mouse.click 416⫽427 relative false
+delay milliseconds 500
+mouse.click 566⫽431 relative false
+delay milliseconds 500
+mouse.click 997⫽98 relative false
+delay milliseconds 500
+mouse.click 1180⫽91 relative false
+delay milliseconds 500
+mouse.click 1242⫽461 relative false type down
+mouse.move 1242⫽445 relative false
+mouse.click 1239⫽414 relative false type up
+delay milliseconds 500
+mouse.click 736⫽699 relative false
+delay milliseconds 500
+mouse.click 713⫽522 relative false
+delay milliseconds 500
+mouse.click 892⫽79 relative false
+delay milliseconds 500
+mouse.click 538⫽125 relative false
+delay milliseconds 500
+mouse.click 736⫽699 relative false
+delay milliseconds 500
+mouse.click 728⫽439 relative false type down
+mouse.move 1058⫽242 relative false
+mouse.click 1152⫽179 relative false type up
+delay milliseconds 500
+mouse.click 450⫽228 relative false
+delay milliseconds 500
+mouse.click 344⫽86 relative false
+delay milliseconds 500
+mouse.click 769⫽227 relative false
+delay milliseconds 500
+mouse.click 260⫽90 relative false
+delay milliseconds 500
+keyboard ⋘Backspace⋙
+keyboard ‴Bauhaus 93‴⋘enter⋙
+delay milliseconds 500
+mouse.click 167⫽121 relative false
+delay milliseconds 500
+keyboard ⋘Backspace⋙
+keyboard 48
+keyboard ⋘enter⋙
+keyboard ‴Thanks for watching!‴
+keyboard ⋘Ctrl+s⋙
+keyboard ⋘Backspace⋙
+keyboard ‴C:\New_folder‴
+keyboard ⋘enter⋙
+keyboard paint1
+delay milliseconds 500
+mouse.click 1664⫽792 relative false
+
+
+
+
+
+
+
+
