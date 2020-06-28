@@ -1,0 +1,262 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+keyboard ⋘WIN+D⋙
+keyboard ⋘WIN⋙
+keyboard Powerpoint
+mouse.click 142⫽377 relative false
+delay 3
+mouse.click 1596⫽179 relative false
+delay 2
+mouse.click 321⫽244 relative false
+delay 2
+mouse.click 1166⫽102 relative false
+delay 2
+mouse.click 411⫽213 relative false type down
+mouse.move  1046⫽591 relative false
+delay 2
+mouse.click 1784⫽982 relative false type up
+delay 2
+mouse.click 928⫽96 relative false
+delay 2
+mouse.click 923⫽338 relative false
+delay 2
+mouse.click 821⫽316 relative false
+delay 2
+mouse.click 920⫽493 relative false
+delay 2
+mouse.click 1072⫽323 relative false
+delay 2
+mouse.click 147⫽104 relative false
+delay 2
+mouse.click 571⫽389 relative false type down
+mouse.move  814⫽657 relative false
+mouse.click 1040⫽973 relative false type up
+delay 2
+mouse.click 936⫽101 relative false
+delay 2
+mouse.click 934⫽397 relative false
+delay 2
+mouse.click 825⫽321 relative false
+delay 2
+mouse.click 890⫽470 relative false
+delay 2
+mouse.click 1069⫽313 relative false
+delay 2
+mouse.click 650⫽389 relative false type down
+mouse.move  674⫽389 relative false
+mouse.click 715⫽392 relative false type up
+delay 2
+mouse.click 122⫽107 relative false
+delay 2
+mouse.click 820⫽240 relative false type down
+mouse.move  1049⫽426 relative false
+mouse.click 1185⫽581 relative false type up
+delay 2
+mouse.click 386⫽124 relative false
+delay 2
+mouse.click 748⫽629 relative false
+delay 2
+mouse.click 803⫽973 relative false type down
+mouse.move  806⫽886 relative false
+mouse.click 803⫽857 relative false type up
+delay 2
+mouse.click 961⫽457 relative false
+delay 2
+keyboard ⋘Ctrl+D 3⋙
+delay 2
+mouse.click 1061⫽469 relative false type down
+mouse.move 721⫽384 relative false
+mouse.click 761⫽390 relative false type up
+delay 2
+mouse.click 570⫽207 relative false type down
+mouse.move 669⫽300 relative false
+mouse.click 693⫽338 relative false type up
+delay 2
+mouse.click 807⫽441 relative false type down
+mouse.move 771⫽394 relative false
+mouse.click 789⫽376 relative false type up
+delay 2
+mouse.click 1049⫽459 relative false type down
+mouse.move 1330⫽465 relative false
+mouse.click 1475⫽509 relative false type up
+delay 2
+mouse.click 1039⫽377 relative false type down
+mouse.move 1262⫽739 relative false
+mouse.click 1305⫽879 relative false type up
+delay 2
+mouse.click 1006⫽421 relative false type down
+mouse.move 1039⫽368 relative false
+mouse.click 1014⫽372 relative false type up
+delay 2
+mouse.click 1410⫽500 relative false 
+delay 2
+mouse.click 1280⫽313 relative false type down
+mouse.move 1404⫽451 relative false
+mouse.click 1460⫽457 relative false type up
+delay 2
+mouse.click 1557⫽557 relative false type down
+mouse.move 665⫽415 relative false
+mouse.click 655⫽428 relative false type up
+delay 2
+mouse.click 1301⫽898 relative false 
+delay 2
+mouse.click 1266⫽911 relative false type down
+mouse.move 1497⫽564 relative false
+mouse.click 1521⫽521 relative false type up
+delay 2
+mouse.click 1358⫽366 relative false type down
+mouse.move 1508⫽501 relative false
+mouse.click 1622⫽523 relative false type up
+delay 2
+mouse.click 1672⫽621 relative false type down
+mouse.move 655⫽556 relative false
+mouse.click 591⫽558 relative false type up
+delay 2
+delay 2
+mouse.click 121⫽105 relative false
+delay 2
+mouse.click 754⫽559 relative false type down
+mouse.move 774⫽573 relative false
+mouse.click 794⫽597 relative false type up
+delay 2
+mouse.click 121⫽105 relative false
+delay 2
+mouse.click 882⫽562 relative false type down
+mouse.move 900⫽576 relative false
+mouse.click 921⫽600 relative false type up
+delay 2
+mouse.click 144⫽102 relative false
+delay 2
+mouse.click 851⫽591 relative false type down
+mouse.move  833⫽662 relative false
+mouse.click  821⫽734 relative false type up
+delay 2
+mouse.click 827⫽590 relative false type down
+mouse.move  832⫽590 relative false
+mouse.click 837⫽589 relative false type up
+delay 2
+mouse.click 852⫽732 relative false type down
+mouse.move  839⫽682 relative false
+mouse.click 843⫽691 relative false type up
+delay 2
+mouse.click 832⫽638 relative false type down
+mouse.move  830⫽619 relative false
+mouse.click 834⫽613 relative false type up
+delay 2
+mouse.click 915⫽739 relative false
+delay 2
+mouse.click 1042⫽860 relative false type down
+mouse.move 950⫽749 relative false
+mouse.click 998⫽819 relative false type up
+delay 2
+mouse.click 571⫽820 relative false type down
+mouse.move 592⫽794 relative false
+mouse.click 590⫽820 relative false type up
+delay 2
+mouse.click 120⫽104 relative false
+delay 2
+mouse.click 1339⫽535 relative false type down
+mouse.move 1402⫽582 relative false
+mouse.click 1444⫽631 relative false type up
+delay 2
+mouse.click 98⫽103 relative false
+delay 2
+mouse.click 1303⫽501 relative false type down
+mouse.move 1403⫽536 relative false
+mouse.click 1502⫽571 relative false type up
+delay 2
+mouse.click 1402⫽457 relative false type down
+mouse.move 1422⫽472 relative false
+mouse.click  1420⫽464 relative false type up
+delay 2
+mouse.click 1817⫽760 relative false type down
+mouse.move 1253⫽479 relative false
+mouse.click  1247⫽407 relative false type up
+delay 2
+mouse.click 255⫽158 relative false
+delay 2
+mouse.click 247⫽304 relative false
+delay 2
+keyboard ⋘Ctrl+D⋙
+delay 2
+mouse.click 1432⫽574 relative false type down
+mouse.move 1545⫽592 relative false
+mouse.click  1560⫽571 relative false type up
+delay 2
+mouse.click 119⫽103 relative false
+delay 2
+mouse.click 1462⫽608 relative false type down
+mouse.move 1552⫽673 relative false
+mouse.click  1577⫽709 relative false type up
+delay 2
+mouse.click 1834⫽792 relative false type down
+mouse.move 1462⫽543 relative false
+mouse.click  1448⫽519 relative false type up
+delay 2
+mouse.click 268⫽159 relative false
+delay 2
+mouse.click 227⫽270 relative false
+delay 2
+-colour of mouth
+mouse.click 930⫽98 relative false
+delay 2
+mouse.click 1003⫽402 relative false
+delay 2
+mouse.click 828⫽319 relative false
+delay 2
+mouse.click 911⫽484 relative false
+delay 2
+mouse.click 1075⫽325 relative false
+delay 2
+mouse.click 1402⫽599 relative false
+delay 2
+mouse.click 926⫽104 relative false
+delay 2
+mouse.click 986⫽401 relative false
+delay 2
+mouse.click 829⫽315 relative false
+delay 2
+mouse.click 852⫽375 relative false
+delay 2
+mouse.click 1098⫽318 relative false
+delay 2
+mouse.click 1394⫽598 relative false type down
+mouse.move 1074⫽716 relative false
+mouse.click 827⫽728 relative false type up
+delay 2
+mouse.click 1530⫽629 relative false
+delay 2
+mouse.click 1529⫽627 relative false type down
+mouse.move 1216⫽740 relative false
+mouse.click 829⫽734 relative false type up
+delay 2
+mouse.click 366⫽519 relative false type down
+mouse.move 934⫽587 relative false
+mouse.click  936⫽610 relative false type up
+delay 2
+mouse.click 939⫽101 relative false
+delay 2
+mouse.click 909⫽398 relative false
+delay 2
+mouse.click 818⫽321 relative false
+delay 2
+mouse.click 850⫽377 relative false
+delay 2
+mouse.click 1094⫽320 relative false
+delay 2
+mouse.click 840⫽607 relative false
+delay 2
+mouse.click 935⫽103 relative false
+delay 2
+mouse.click 916⫽401 relative false
+delay 2
+mouse.click 840⫽321 relative false
+delay 2
+mouse.click 900⫽484 relative false
+delay 2
+mouse.click 1067⫽316 relative false
+delay 2
+mouse.click 927⫽128 relative false
+delay 2
+mouse.click 930⫽393 relative false
+delay 2
