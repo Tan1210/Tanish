@@ -1,0 +1,9 @@
+addon msoffice version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+excel.open C:\New_folder\getformula.xlsx
+window ✱excel✱
+excel.getformula row 5 colindex 3
+dialog ♥result
+excel.getformula row 7 colname D
+dialog ♥result
