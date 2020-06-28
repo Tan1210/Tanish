@@ -1,0 +1,9 @@
+addon msoffice version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+outlook.open
+window ✱outlook✱
+outlook.newmessage to hi@g1ant.com subject ‴Hi, Robot!‴  body ‴Impressed with your work!‴
+delay 5
+outlook.send
+outlook.close
