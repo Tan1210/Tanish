@@ -1,0 +1,159 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+keyboard ⋘WIN+D⋙
+keyboard ⋘WIN⋙
+keyboard Autocad
+mouse.click 279⫽388 relative false
+delay 20
+mouse.click 1821⫽44 relative false
+delay 2
+mouse.click 490⫽470 relative false
+delay 2
+mouse.click 1761⫽1007 relative false
+delay 2
+mouse.click 1735⫽838 relative false
+delay 2
+mouse.click 561⫽963 relative false
+delay 2
+keyboard Polygon
+delay 4
+keyboard ⋘enter⋙
+delay 2
+keyboard 6
+delay 2
+keyboard ⋘enter⋙
+delay 2
+dialog.ask message ‴What is the diameter of nut?‴ result ♥nut
+♥hexa = ♥nut
+♥presspull = ♥hexa-1
+♥rad = ♥nut/2
+dialog ♥rad
+keyboard ‴0,0‴⋘enter⋙
+delay 2
+keyboard I⋘enter⋙
+delay 2
+keyboard ♥hexa<0⋘enter⋙
+delay 2
+mouse.click 1884⫽610 relative false
+delay 2
+mouse.click 797⫽975 relative false
+delay 2
+keyboard circle⋘enter⋙
+delay 2
+keyboard ‴0,0‴⋘enter⋙
+delay 2
+keyboard ♥rad⋘enter⋙
+delay 2
+keyboard circle⋘enter⋙
+delay 2
+keyboard ‴0,0‴⋘enter⋙
+delay 2
+keyboard ♥hexa⋘enter⋙
+delay 2
+mouse.click 1884⫽610 relative false
+delay 2
+mouse.click 1793⫽359 relative false
+delay 2
+keyboard PressPull⋘enter⋙
+delay 2
+mouse.click 1125⫽550 relative false
+delay 2
+keyboard ‴50‴⋘enter⋙
+delay 2
+keyboard ⋘escape⋙
+delay 2
+mouse.click 556⫽967 relative false
+delay 2
+keyboard Extrude⋘enter⋙
+delay 2
+mouse.click 1112⫽735 relative false
+delay 2
+keyboard ⋘enter⋙
+delay 2
+keyboard -50⋘enter⋙
+delay 2
+keyboard ⋘escape⋙
+delay 2
+mouse.click 556⫽967 relative false
+delay 2
+keyboard Filletedge⋘enter⋙
+delay 2
+mouse.click 833⫽561 relative false
+delay 2
+mouse.click 901⫽763 relative false
+delay 2
+keyboard ⋘enter⋙
+delay 2
+keyboard r⋘ENTER⋙
+delay 2
+keyboard 8⋘enter⋙
+delay 2
+keyboard ⋘enter⋙
+delay 2
+keyboard ⋘escape⋙
+delay 2
+mouse.click 567⫽969 relative false
+delay 2
+keyboard realistic⋘enter⋙
+delay 2
+keyboard intersect⋘enter⋙
+delay 2
+mouse.click 895⫽585 relative false
+delay 2
+mouse.click 781⫽530 relative false
+delay 2
+keyboard ⋘enter⋙
+delay 2
+mouse.click 528⫽970 relative false
+delay 2
+keyboard helix⋘enter⋙
+delay 2
+keyboard ‴0,0‴⋘enter⋙
+delay 2
+keyboard ♥rad⋘enter⋙
+delay 2
+keyboard ⋘enter⋙
+delay 2
+keyboard t⋘enter⋙
+delay 2
+keyboard 10⋘enter⋙
+delay 2
+keyboard -52⋘enter⋙
+delay 2
+mouse.click 548⫽966 relative false
+delay 2
+keyboard circle⋘enter⋙
+delay 2
+mouse.click 1489⫽455 relative false
+delay 2
+keyboard 2⋘enter⋙
+delay 2
+mouse.click 548⫽966 relative false
+delay 2
+keyboard sweep⋘enter⋙
+delay 2
+mouse.click 1494⫽460 relative false
+delay 2
+keyboard ⋘enter⋙
+delay 2
+mouse.click 992⫽399 relative false
+delay 2
+mouse.click 1149⫽84 relative false
+delay 2
+keyboard ⋘right 3⋙⋘enter⋙
+delay 2
+mouse.click 548⫽969 relative false
+delay 2
+keyboard subtract⋘enter⋙
+delay 2
+mouse.click 1133⫽433 relative false
+delay 2
+keyboard ⋘enter⋙
+delay 2
+mouse.click 1026⫽390 relative false
+delay 2
+keyboard ⋘enter⋙
+delay 2
+
+
+
