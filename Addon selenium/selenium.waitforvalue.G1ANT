@@ -1,0 +1,10 @@
+addon selenium version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+selenium.open chrome url google.com
+delay 5
+selenium.waitforvalue ‴return document.querySelectorAll('input[name=q]').length > 0‴ expectedvalue true timeout 20000
+delay 5
+selenium.type ‴fluffy robots‴ search input[name=q] by cssselector
+delay 5
+selenium.close
