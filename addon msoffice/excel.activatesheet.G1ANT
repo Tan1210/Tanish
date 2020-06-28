@@ -1,0 +1,14 @@
+addon msoffice version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+excel.open
+window ✱excel✱
+excel.addsheet ‴New Sheet‴
+delay 2
+excel.setvalue ‴Tanish‴ row 1 colindex 1
+delay 2
+excel.addsheet ‴Another Sheet‴
+delay 2
+excel.setvalue 132 row 1 colname ‴A‴
+delay 2
+excel.activatesheet ‴New Sheet‴
