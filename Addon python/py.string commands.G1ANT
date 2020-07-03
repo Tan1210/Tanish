@@ -1,0 +1,35 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program python
+dialog.ask ‴What type of string operation you want to do 1.Capitalize 2.Find 3.Length 4.Lower 5.Upper 6.Replace 7.Swapcase‴ result ♥num
+dialog.ask ‴Type the string‴ result ♥name 
+if ♥num=="1"
+    keyboard ‴"♥name".capitalize()⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="2"
+    dialog.ask ‴Which string you want to find‴ result ♥str
+    keyboard ‴"♥name".find("♥str")⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="3"
+    keyboard ‴len("♥name")⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="4"
+    keyboard ‴"♥name".lower()⋘enter⋙‴
+     else if ♥num=="5"
+    keyboard ‴"♥name".upper()⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="6"
+    dialog.ask ‴Which string you want to replace‴ result ♥r
+    dialog.ask ‴Which string you want to place‴ result ♥p
+    keyboard ‴"♥name".replace('♥r','♥p')⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="7"
+    keyboard ‴"♥name".swapcase()⋘enter⋙‴
+    delay 2
+    end
+    
