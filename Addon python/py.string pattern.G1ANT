@@ -1,0 +1,13 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program python
+dialog.ask ‴Enter the string‴ result ♥num
+keyboard ‴string = input("The string is:")⋘enter⋙‴
+keyboard ‴♥num⋘enter⋙‴
+keyboard ‴length=len(string)⋘enter⋙‴
+keyboard ‴for row in range(length):⋘enter⋙‴
+keyboard ‴⋘tab⋙for col in range(row+1):⋘enter⋙‴
+keyboard ‴⋘tab 2⋙print(string[col],end=" ")⋘enter⋙‴
+keyboard ‴⋘tab⋙print()⋘enter⋙‴
+keyboard ⋘enter⋙
+delay 2
