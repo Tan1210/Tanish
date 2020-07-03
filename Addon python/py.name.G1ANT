@@ -1,0 +1,8 @@
+addon python version 4.1.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program python 
+dialog.ask ‴Mention your name:‴ result ♥name
+keyboard ‴print ("Nice to meet you! ♥name")⋘enter⋙‴
+delay 2
+keyboard ⋘Alt+F4⋙
