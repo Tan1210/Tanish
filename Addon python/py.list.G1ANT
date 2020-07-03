@@ -1,0 +1,20 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program python
+keyboard ‴list=['1','2',['7','8','9'],'3','4','5','6']⋘enter⋙‴
+keyboard ‴print(len(list))⋘enter⋙‴
+keyboard ‴print (list[3])⋘enter⋙‴
+keyboard ‴print (list[-3])⋘enter⋙‴
+keyboard ‴print(list[0:3])⋘enter⋙‴
+keyboard ‴list.append('10')⋘enter⋙‴
+keyboard ‴print(list)⋘enter⋙⋘enter⋙‴
+keyboard ‴list.extend(['11','12'])⋘enter⋙‴
+keyboard ‴print(list)⋘enter⋙⋘enter⋙‴
+keyboard ‴list.insert(5,'13')⋘enter⋙‴
+keyboard ‴print(list)⋘enter⋙⋘enter⋙‴
+keyboard ‴list.pop()⋘enter⋙‴
+keyboard ‴print(list)⋘enter⋙⋘enter⋙‴
+keyboard ‴list.remove('13')⋘enter⋙‴
+keyboard ‴print (list)⋘enter⋙⋘enter⋙‴
+keyboard ‴list.reverse()⋘enter⋙‴
+keyboard ‴print(list)⋘enter⋙⋘enter⋙‴
