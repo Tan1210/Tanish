@@ -1,0 +1,44 @@
+addon python version 4.1.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program python
+dialog ‴What operation do you want to do in python?‴
+dialog.ask ‴1.Addition 2.Subtraction 3.Multiplication 4.Division 5.Swapping‴ result ♥num
+if ♥num=="1"
+    dialog.ask ‴Enter your first number‴ result ♥1
+    dialog.ask ‴Enter your second number‴ result ♥2
+    keyboard ‴print(♥1+♥2)⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="2"
+    dialog.ask ‴Enter your first number‴ result ♥1
+    dialog.ask ‴Enter your second number‴ result ♥2
+    keyboard ‴print(♥1-♥2)⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="3"
+    dialog.ask ‴Enter your first number‴ result ♥1
+    dialog.ask ‴Enter your second number‴ result ♥2
+    keyboard ‴print(♥1*♥2)⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="4"
+    dialog.ask ‴Enter your first number‴ result ♥1
+    dialog.ask ‴Enter your second number‴ result ♥2
+    keyboard ‴print(♥1/♥2)⋘enter⋙‴
+    delay 2
+    break
+    else if ♥num=="5"
+    dialog.ask ‴Enter your first number‴ result ♥1
+    dialog.ask ‴Enter your second number‴ result ♥2
+    keyboard ‴a=♥1⋘enter⋙b=♥2⋘enter⋙‴
+    keyboard ‴a=a+b⋘enter⋙‴
+    keyboard ‴b=a-b⋘enter⋙‴
+    keyboard ‴a=a-b⋘enter⋙‴
+    keyboard ‴print(a,b)⋘enter⋙‴
+    delay 2
+    else
+    dialog ‴Your operation is not within the options‴
+    break
+end
+       
