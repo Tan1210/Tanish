@@ -1,0 +1,14 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+program python
+keyboard ‴dict={'Name':"Lara",'Age':"17"}⋘enter⋙‴
+keyboard ‴print('Name' in dict)⋘enter⋙‴
+keyboard ‴print(dict['Name'])⋘enter⋙‴
+keyboard ‴dict['Name']="Clark"⋘enter⋙‴
+keyboard ‴dict.get('Name')⋘enter⋙‴
+keyboard ‴dict2={'Place':"Canada"}⋘enter⋙‴
+keyboard ‴dict.update(dict2)⋘enter⋙‴
+keyboard ‴len(dict)⋘enter⋙‴
+keyboard ‴dict⋘enter⋙‴
+keyboard ‴dict.pop('Age')⋘enter⋙‴
+keyboard ‴dict⋘enter⋙‴
